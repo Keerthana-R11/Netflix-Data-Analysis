@@ -5,7 +5,7 @@ Exploratory data analysis on Netflix movies and TV shows dataset using Python.
 This project analyzes Netflix movies and TV shows dataset to find insights
 such as content type, country distribution, ratings, and trends.
 
-##  Tools Used
+##  🔗Tools Used
 - Python
 - Pandas
 - Matplotlib
