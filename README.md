@@ -8,8 +8,6 @@ such as content type, country distribution, ratings, and trends.
 ##  🔗Tools Used
 - Python
 - Pandas
-- Matplotlib
-- Seaborn
 - Jupyter Notebook
 - SQL
 - Power BI
